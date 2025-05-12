@@ -38,7 +38,7 @@ function convertCurrency(amount, price, symbol){
   try {
     footer.classList.add("show-result")
     span.innerText = `${symbol} 1 = R$ ${price}`
-    result = amount * price
+    result.innerText = amount * price
 
 
   } catch (error) {
