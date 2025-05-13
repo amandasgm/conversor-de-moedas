@@ -1,7 +1,7 @@
 # Convert
 ### Projeto de estudo - Primeiro contato JavaScript 
 
-![Capa do projeto](assets/images/capa-readme.jpg)
+![Capa do projeto](assets/images/capa-readme.png)
 
 
 ### 🚀 Tecnologias
