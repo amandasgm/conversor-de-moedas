@@ -58,9 +58,14 @@ label{
   line-height: 1rem;
 }
 
+header{
+  margin-top: auto;
+}
+
 header img{
   display: flex;
-  margin-block: 32px;
+  align-items: center;
+  margin-block: auto;
   margin-inline: auto;
 }
 
